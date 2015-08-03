@@ -1,0 +1,8 @@
+org.robolectric
+org.robolectric.internal
+org.robolectric.internal.bytecode
+org.robolectric.internal.dependency
+org.robolectric.internal.fakes
+org.robolectric.internal.runtime
+org.robolectric.res.builder
+org.robolectric.util
